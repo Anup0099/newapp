@@ -1,0 +1,17 @@
+/* HeaderComponent.css */
+.header {
+    background-color: #343a40;
+    padding: 10px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar h1 {
+    color: #ffffff;
+    font-size: 24px;
+  }
+  

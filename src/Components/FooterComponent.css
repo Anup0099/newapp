@@ -1,0 +1,15 @@
+/* FooterComponent.css */
+.footer {
+    background-color: rgb(255, 217, 0);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+  }
+  
+  .text-muted {
+    color: #ffffff;
+    font-size: 14px;
+  }
+  
